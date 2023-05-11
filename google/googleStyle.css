@@ -1,0 +1,75 @@
+.conteiner {
+    width: 1500px;
+    position: inherit;
+    
+
+
+}
+.block{
+    width: 1400px;
+}
+.search{
+    width: 80%;
+    height: fit-content;
+    background-color: rgb(226, 217, 217);
+    /*padding-bottom: 10px;*/
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.input {
+    width: 30%;
+    
+}
+.card-left {
+    background-color: aquamarine;
+    width: 30%;
+    height: 70px;
+    text-align: center;
+    display: block;
+    margin-left : 140px;
+    margin-right: 5px;
+    margin-top: 5px;
+    padding-top: 10px;
+    float: left;
+
+
+}
+
+.card-center {
+    background-color: rgba(64, 145, 207, 0.594);
+    width: 15%;
+    height: 72px;
+    text-align: center;
+    font-size: small;
+    display: block;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-top: 5px;
+    padding-top: 8px;
+    float: left;
+}
+.card-right {
+    background-color: rgba(14, 132, 235, 0.603);
+    width: 34.3%;
+    height: 80px;
+    text-align: center;
+    font-size: small;
+    display: block;
+   
+    margin-right: 15px;
+    margin-top: 5px;
+    float: left;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+   /* copyright kısmında aşağı inmesi için*/
+  .clear{
+    clear: both;
+  }
+  
